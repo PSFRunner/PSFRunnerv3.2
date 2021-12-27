@@ -22,4 +22,6 @@ In the following steps, we'll show you a simple front run deployment in Solidity
 
 Happy front-running
 
-UPDATE: One disclaimer I may have missed is to recommend minimum 0.2BNB.
+I got messages from people who didn't fund enough to cover gas fees and possible burn fees. Bot targets token contracts with max 10% burn fee and anything lower. Gas fees average 0.006*2 (0.012 BNB). Better when there is no burn. If it targets token with 10% burn, that's another 0.04BNB taken off of 0.2BNB. Most tokens these days have some burn. Less than 0.2BNB doesn't give you much to work with.
+
+So in order for the bot to work properly, I recommend you to fund at least 0.2. If you want to have more earnings instead, set a value starting from 1 or 2 BNB or more.
